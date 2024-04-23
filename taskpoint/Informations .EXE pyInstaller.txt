@@ -1,0 +1,5 @@
+Run cmd
+Go to a file
+run pyInstaller "D:\Projets\TaskPoint\taskpoint\program\main.py" --onefile --window
+Move main.py created into the main folder of the project
+Create a quick access of the exe
